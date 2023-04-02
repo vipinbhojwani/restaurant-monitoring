@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+# SQLite database is created inside instance automatically
+instance/ 
